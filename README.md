@@ -1,2 +1,6 @@
-# FuncoesMatDiscreta
-### Grupo: Mateus, Breno, William e Maria Giulia
+# Funcoes - Matemática Discreta
+### Grupo: 
+- Mateus
+- Breno
+- William 
+- Maria Giulia
