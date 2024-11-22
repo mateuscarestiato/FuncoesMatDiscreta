@@ -1,2 +1,2 @@
 # FuncoesMatDiscreta
-#Grupo: Mateus, Breno, William e Maria Giulia
+### Grupo: Mateus, Breno, William e Maria Giulia
